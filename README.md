@@ -22,19 +22,3 @@ Letovo School student from Russia🇷🇺
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNvbzZuOGM4aTFtaGsxbTZ0d2tvM2xmeXFpM2MwejZ2YmphaGNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgMvfYRdMfOOZAIMuf/giphy.gif" height="340" width="350" alt="cute pug"  />
 </div>
 
-## 🌐 Socials:
-<div align="left">
-  <a href="https://www.youtube.com/@МишаМежибовский" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="mikhail.mezh@icloud.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/miha19652010" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://codepen.io/CrazyMikha2010" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-</div>
-

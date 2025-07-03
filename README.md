@@ -22,4 +22,4 @@ Letovo School student from Russia🇷🇺
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNvbzZuOGM4aTFtaGsxbTZ0d2tvM2xmeXFpM2MwejZ2YmphaGNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgMvfYRdMfOOZAIMuf/giphy.gif" height="340" width="350" alt="cute pug"  />
 </div>
 
-If you are wondering whats up with my contributions, check out my [repo](https://github.com/CrazyMikha2010/contribution_hack)
+If you are wondering whats up with my contributions, check out my [repo](https://github.com/CrazyMikha2010/contribution_hack). 2025 and further graphs remain untouched
